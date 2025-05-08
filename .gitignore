@@ -1,0 +1,31 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Archivos de Unity específicos
+MemoryCaptures/
+UserSettings/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+*.sln
+*.csproj
+
+# Archivos de backup
+*.bak
+*.old
+*.orig
+*.tmp
+
+# Archivos generados por Unity Cloud
+sysinfo.txt
