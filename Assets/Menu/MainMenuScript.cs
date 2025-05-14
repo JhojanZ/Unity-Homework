@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class MainMenuScript : MonoBehaviour
 {
     public void StartGame(){
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("Level_1");
     }
 
     public void QuitGame()

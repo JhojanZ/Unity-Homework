@@ -29,9 +29,11 @@ public class Player : MonoBehaviour
     public Vector3 position;
 
     [SerializeField]
-    private static float jumpForceY = 5f;
-    private Vector2 jumpForce; 
+    public static float jumpForceY = 3f;
+    private Vector2 jumpForce;
 
+    [SerializeField]
+    private static string levelName;
 
 
 
@@ -84,6 +86,8 @@ public class Player : MonoBehaviour
        
     }
 
+
+
     void PlayerSkill()
     {
         if (Input.GetKeyDown(keysConfig.GetCodeKey("Jump")) && jumpCount < maxJumps - 1)
@@ -120,5 +124,21 @@ public class Player : MonoBehaviour
         {
             jumpCount = maxJumps;
         }
+    }
+
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        Debug.Log("Trigger: " + other.gameObject.name);
+        if (other.CompareTag("Rot"))
+        {
+            Respawn();
+        }
+    }
+    private Vector3 startPosition = new Vector3(-5.3f, -3.09f, 0f);
+    void Respawn()
+    {
+        Debug.Log("Respawn, ASCENCION");
+        transform.position = startPosition;
     }
 }
