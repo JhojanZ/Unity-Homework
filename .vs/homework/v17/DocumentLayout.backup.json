@@ -3,28 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|c:\\users\\felip\\onedrive\\documentos\\unity\\proyects\\homework\\assets\\test\\moveset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|solutionrelative:assets\\test\\moveset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\assets\\scenes\\keysconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\keysconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\assets\\test\\grapplinghook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|solutionrelative:assets\\test\\grapplinghook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\assets\\next_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|solutionrelative:assets\\next_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\assets\\test\\throwhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|solutionrelative:assets\\test\\throwhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\assets\\player\\grapplinghook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\grapplinghook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\assets\\test\\keysconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|solutionrelative:assets\\test\\keysconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|c:\\users\\felip\\onedrive\\documentos\\unity\\proyects\\homework\\assets\\player\\moveset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\moveset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\assets\\test\\cameramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|solutionrelative:assets\\test\\cameramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\assets\\player\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\assets\\menu\\mainmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5B6F8D-3CAB-B7F1-94F8-D9A72F018CBB}|Assembly-CSharp.csproj|solutionrelative:assets\\menu\\mainmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\MainMenuScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MainMenuScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Test\\KeysConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Test\\KeysConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Test\\CameraMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Test\\CameraMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Test\\GrapplingHook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Test\\GrapplingHook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Test\\MoveSet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Test\\MoveSet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Test\\ThrowHook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Test\\ThrowHook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Menu\\Player\\MoveSet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Menu\\Player\\MoveSet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +74,112 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Player\\Stats.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\Stats.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Player\\Stats.cs",
+              "RelativeToolTip": "Assets\\Player\\Stats.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwDAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:34:00.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoveSet.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Player\\MoveSet.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\MoveSet.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Player\\MoveSet.cs",
+              "RelativeToolTip": "Assets\\Player\\MoveSet.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAIwI4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:43:31.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GridBrush.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrush.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrush.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrush.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrush.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T03:03:44.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenuScript.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Menu\\MainMenuScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Menu\\MainMenuScript.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Menu\\MainMenuScript.cs",
+              "RelativeToolTip": "Assets\\Menu\\MainMenuScript.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:47:22.554Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "GrapplingHook.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Player\\GrapplingHook.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\GrapplingHook.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Player\\GrapplingHook.cs",
+              "RelativeToolTip": "Assets\\Player\\GrapplingHook.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:47:10.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Next_Level.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Next_Level.cs",
+              "RelativeDocumentMoniker": "Assets\\Next_Level.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Next_Level.cs",
+              "RelativeToolTip": "Assets\\Next_Level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:35:11.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeysConfig.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Scenes\\KeysConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\KeysConfig.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Scenes\\KeysConfig.cs",
+              "RelativeToolTip": "Assets\\Scenes\\KeysConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:14:20.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MoveSet.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Menu\\Player\\MoveSet.cs",
+              "RelativeDocumentMoniker": "Assets\\Menu\\Player\\MoveSet.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Menu\\Player\\MoveSet.cs",
+              "RelativeToolTip": "Assets\\Menu\\Player\\MoveSet.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:12:58.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ThrowHook.cs",
               "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Test\\ThrowHook.cs",
               "RelativeDocumentMoniker": "Assets\\Test\\ThrowHook.cs",
@@ -54,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "KeysConfig.cs",
               "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Test\\KeysConfig.cs",
               "RelativeDocumentMoniker": "Assets\\Test\\KeysConfig.cs",
@@ -66,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "CameraMove.cs",
               "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Test\\CameraMove.cs",
               "RelativeDocumentMoniker": "Assets\\Test\\CameraMove.cs",
@@ -78,32 +215,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "GrapplingHook.cs",
               "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Test\\GrapplingHook.cs",
               "RelativeDocumentMoniker": "Assets\\Test\\GrapplingHook.cs",
               "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Test\\GrapplingHook.cs",
               "RelativeToolTip": "Assets\\Test\\GrapplingHook.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowCcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T21:47:38.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "MoveSet.cs",
               "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Test\\MoveSet.cs",
               "RelativeDocumentMoniker": "Assets\\Test\\MoveSet.cs",
               "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\Test\\MoveSet.cs",
               "RelativeToolTip": "Assets\\Test\\MoveSet.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAlwDsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAIA7wDsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T02:31:48.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T02:31:48.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MainMenuScript.cs",
               "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Unity\\Proyects\\homework\\Assets\\MainMenuScript.cs",
               "RelativeDocumentMoniker": "Assets\\MainMenuScript.cs",

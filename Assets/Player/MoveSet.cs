@@ -139,6 +139,11 @@ public class Player : MonoBehaviour
     void Respawn()
     {
         Debug.Log("Respawn, ASCENCION");
+
+        if (Stats.Instance)
+        {
+
+        }
         transform.position = startPosition;
     }
 }
