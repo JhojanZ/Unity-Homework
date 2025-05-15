@@ -15,7 +15,7 @@
 - Implementar el concepto del jefe final con el tres
 - Diseñar el sistema de creditos al final
 
-- Opcional:
+**Opcional:**
 - Implementar un mejor diseño al rot
 - Implementar un mejor Tilemap para los niveles 2-3
 - 
