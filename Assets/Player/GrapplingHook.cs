@@ -23,8 +23,8 @@ public class GrapplingHook : MonoBehaviour
 
     private void SetInitValues()
     {
-        mapLayer = (1 << LayerMask.NameToLayer("Map"));
-        Debug.Log("GrapplingHook is enable at: " + LayerMask.NameToLayer("Map"));
+        mapLayer = (1 << LayerMask.NameToLayer("Grap"));
+        Debug.Log("GrapplingHook is enable at: " + LayerMask.NameToLayer("Grap"));
         target = GameObject.FindWithTag("target");
         joint = GetComponent<DistanceJoint2D>();
         joint.enabled = false;

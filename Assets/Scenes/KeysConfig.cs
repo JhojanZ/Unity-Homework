@@ -15,7 +15,7 @@ public class KeysConfig
             { "Down", KeyCode.DownArrow },
             { "Jump", KeyCode.Z },
             { "Get", KeyCode.X },
-            { "Especial", KeyCode.C }
+            { "Special", KeyCode.C }
 
         };
     }

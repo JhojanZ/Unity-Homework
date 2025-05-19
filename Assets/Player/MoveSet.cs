@@ -90,6 +90,9 @@ public class Player : MonoBehaviour
 
     void PlayerSkill()
     {
+        //Nota: No estoy cual metodo sea ma intuitivo para el gancho, el del doble salto mas direccion
+        //o usar la tecla especial (en este caso seria la c) mmmmmm
+        //if (Input.GetKeyDown(keysConfig.GetCodeKey("Special")) && jumpCount < maxJumps)
         if (Input.GetKeyDown(keysConfig.GetCodeKey("Jump")) && jumpCount < maxJumps - 1)
         {
             grapplingHook?.Main(position, direction);
@@ -145,5 +148,7 @@ public class Player : MonoBehaviour
 
         }
         transform.position = startPosition;
+        player.velocity = Vector2.zero;
+        grapplingHook?.Destroy();
     }
 }
