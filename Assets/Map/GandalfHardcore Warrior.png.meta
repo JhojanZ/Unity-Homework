@@ -1,0 +1,2468 @@
+fileFormatVersion: 2
+guid: 9dbdb660411828343820b763ccabf3b7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1024
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30d3a4ee23fe2448aca74eea362f170
+      internalID: -769187888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1024
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac98db7fa0908b40937d127344a3d87
+      internalID: -1249644210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbba59b62ef5ff14f9b8a1cf4727174e
+      internalID: 1588478042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1024
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a76c51ef9ded44d8db918117815760
+      internalID: -863456875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1024
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43064276f4ddd834cb713b86ba4c5ad1
+      internalID: -2121333348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 960
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07c671797e76684b8f18fecea49c3ca
+      internalID: 1303961994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 960
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa9e8d9ad7029e4281cfc1590fc4f98
+      internalID: -1031200734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 960
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c037c8e58d4f8419075417f2833950
+      internalID: 1389643973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 960
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb9666654268b647894e1817f3077c5
+      internalID: 77988241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 960
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9acfbbf78ec49c4280fb5bddc7be11d
+      internalID: 1100596441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_10
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 960
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83c7def33b855744814f1642b730045
+      internalID: -2091854825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 960
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b50ee606dda03d4db8a05c3f88955ae
+      internalID: -1891293308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_12
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 960
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c08c8a2b115e7439fef198baaa1b22
+      internalID: 169320523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 896
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144b6e053bd136644a7e4f58d74be251
+      internalID: -254543961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 896
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706d5bbf9d79e3b4abfca6a0229e29f4
+      internalID: 523219970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0468dd5dbd4c0a64a8ae8bda1a54e927
+      internalID: -893838096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 896
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb3fc6998912d94aa98d726d86d2edd
+      internalID: 824082109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_17
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 896
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85d3c98e1b633b4cbc44186db1d602f
+      internalID: -867961648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_18
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 896
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650c47f98ccdd924eb30c6e232687491
+      internalID: 1710948739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b943c02a203856438e9bf5977120790
+      internalID: -486291999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_20
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 896
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe12a3ad489ae994db4b472b7c18471d
+      internalID: 1731832009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 832
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a768fd6346c72fc4886cc1340412fcba
+      internalID: 726239390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 832
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9bfdc6d83a45c47a861927d15694b6
+      internalID: 249031268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6eee20981ebf743965fca6a6f93ce9
+      internalID: 379606070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 832
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df95f15dbd7e3044cb4a74b6a144ba13
+      internalID: 558479860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_25
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 832
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f513c07c519a71b4f9312e59d0173d56
+      internalID: -1726839472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_26
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 832
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8edc0941cb27441babd5e374965d95
+      internalID: -630782338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_27
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 832
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4beb1fdf0386e469b2be85a80f4010
+      internalID: 1042864075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_28
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 832
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1112276718134409f6ab9cf3fd3d7d
+      internalID: 1442089170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_29
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 769
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5fc80ea930bc145abfb24669dcfe86
+      internalID: 1715151529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 769
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb376d57b04cad74a8e23cb26e20084f
+      internalID: 1102859259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_31
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 769
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96c676fe9f81924a91a411d88e96a45
+      internalID: 135392006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_32
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 769
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbc7f49a55d775479662f6e78f51e16
+      internalID: 114149078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_33
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 705
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd62a2146e748a44a9af4b6ad0976fe
+      internalID: -647961432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 705
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7ebe585e917fd49be491d1306f4c60
+      internalID: -1631250808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_35
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 705
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc19b9f772b5e94bb3c979c5e3d09ab
+      internalID: 1910567013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_36
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 705
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34d4589f281caa41a25a6806131d3b8
+      internalID: -155157377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 640
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4c61bc98d8a574cabc118fb247dcf1
+      internalID: 698454186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_38
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 640
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702453329bdee014aa3bfa1210de788c
+      internalID: 2086552081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_39
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 640
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2786f9a4d61024b865fedd218e3861
+      internalID: -1599296208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 640
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd795a98970fae4abc71c8219668f6b
+      internalID: 1196709123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_41
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 576
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b591512824c9fe34cbcc61dc8106b8c2
+      internalID: 324563033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 576
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbe106acfa6caf48a16bd8392f36ed9
+      internalID: -1721929378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_43
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 576
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc021ef40f2d61041a98dd7629b1a493
+      internalID: -1207600533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_44
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 576
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540a773d57a6f5d45a1d3677983b5c4c
+      internalID: 1733562948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_45
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 576
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee78ae0b0244d747aa7caac4c049e59
+      internalID: -2017111247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_46
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 512
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6623f96b91bbf4e99690f64e8d5af8
+      internalID: 556328654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_47
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 512
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe170f13839aaa4ab281eb144b44e87
+      internalID: 1869266917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_48
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 512
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b073a42bb720994b9b87ade5259acdf
+      internalID: -308129715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_49
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 512
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893aff2ee2bd3b44e886d5b0d5b55d64
+      internalID: 1692414605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_50
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 512
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbc6ac8ef686f34da3f85b206cd6c75
+      internalID: 1215431315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_51
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 512
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d164fedb58943fa4f955f244e3e6a7cc
+      internalID: -2081796343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_52
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 512
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e301dbeb7c5dbe64f926a38079fceae4
+      internalID: -540472227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_53
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 512
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465f25ba6e4902844b651ea19309b131
+      internalID: -519094561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 448
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f997b9f8016f5e4c8412812d283fc88
+      internalID: 921692161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_55
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 448
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e11f1afd3fbc7a49b97da9f05e03abf
+      internalID: 1462564895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_56
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 448
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6028729739b8b69428ae8e88552dd0c1
+      internalID: 1985260842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_57
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 448
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc83630daa84f7f45851a549be25c7e1
+      internalID: -290448879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_58
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 448
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25379cd7bfd4d8b48b0b26b700b95243
+      internalID: -725684767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_59
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 448
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a29b6dfaf61b6499e2776c8e8fd2ac
+      internalID: -252308912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_60
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 448
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a48f703ccca954ebfef1b019d9bb7f
+      internalID: -1328355525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_61
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 448
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387e3ec4fa0a7ef4595dcf2b00d04423
+      internalID: -1825382439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_62
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 384
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98076b1ff81172e449c8275e4a52a39b
+      internalID: 1805408074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_63
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 384
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc879061472fc054aabb962041b58a94
+      internalID: -384762578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_64
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 384
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040a617efb97b2744a739d0476c97570
+      internalID: -755215604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_65
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 384
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d426599ffce5a642966649cb390f8f4
+      internalID: -669706725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_66
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 384
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45939153cb35e847acfa21ecbf08d1e
+      internalID: -1189933443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_67
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 384
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b64046c811182347a10e680f0e6307b
+      internalID: 1139630182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_68
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 384
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0927c48c8b76754f92f6543c4ac5d3e
+      internalID: 201599018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_69
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 384
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ed5290a51eab846b60776f8c2fed2c
+      internalID: -1910167689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_70
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 321
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96c4e3851626384cb1f5ef543250c40
+      internalID: 1986042622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_71
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 321
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6783c2ae3465b1c45961ef46ae473c06
+      internalID: 1037868278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_72
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 321
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f91b7341a2efc846a870ebccdd979ae
+      internalID: 981613479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_73
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 321
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95710b7022977184986df6958c534bdc
+      internalID: 2143213698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_74
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 257
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3ca724c345eea4a929dbf9ae43132d
+      internalID: 1257024648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_75
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 257
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173df6d3031759443b58b01e9a84d8c5
+      internalID: -34461573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_76
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 257
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee2e55136a4f204690c442fcab6d05f
+      internalID: 1788053833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_77
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 257
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f110b7452669e4191c9b458238d284
+      internalID: -2022655331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_78
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 192
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7396a488a9a2fde419076bd325892d63
+      internalID: 2063656270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_79
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 192
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3005edf9f1e3d44a1f3fe305c46b07
+      internalID: 270252556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_80
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 192
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9589d22311dbaad408861f9426482c99
+      internalID: 761658070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_81
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 192
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0134412ff4bdacb4a89dc2f477f0cfe3
+      internalID: 1026462386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_82
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 128
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3658df9c22306744c878e655ff467a72
+      internalID: -1071500042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_83
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 128
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5373381c14aeda740ac5a414d114821f
+      internalID: 565145037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_84
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 128
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac6a78b10a0da94c8da4f65a60ce2b4
+      internalID: 2113764797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_85
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 128
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63878c83f2d4ec4b9abff09ea7054db
+      internalID: 928549285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_86
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 128
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ddc0dddf4a8814291c90f61fbe91bb
+      internalID: 1534802222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_87
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 154
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b348d8d0cb7fb5e46b7878865fc05101
+      internalID: -1151722008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_88
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 128
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133be2f2594fd72418816cbec16d6e41
+      internalID: 674555049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_89
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 64
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c76ee22c2c3d941807ffa2f02be1ba
+      internalID: 316244656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_90
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 64
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7385abe21608bf946bfe7a1e1c302c0c
+      internalID: -2114919099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_91
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 64
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1859381b2c8421e4287e7b1832a749cb
+      internalID: -315386066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_92
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 64
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5425dc8ef4db040b58a95b9100126d
+      internalID: -2049408328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_93
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 64
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0d49c206b1f834db7711c41147e349
+      internalID: 48902540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_94
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 64
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203eb57bb48e880459d3bde449da1c85
+      internalID: 2088952828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_95
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 64
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd0aa10ebcb8b64588a3b489942548c
+      internalID: -1629260172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_96
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 64
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3d2636bc8d94f438ff6beb81dadbdc
+      internalID: 1356450461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_97
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f731e2c9d89e69d4cb1ffff7274efcf5
+      internalID: -1955997088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_98
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9024fa81980327241b6081dbbc8b4420
+      internalID: -1101567598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_99
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21000242c921ee441b86477df3baa59e
+      internalID: 1652837052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_100
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c6b44fd1fd03a498e10e89eceb1a90
+      internalID: -477155818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_101
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1609064eff25c4682fdf944ed5103c
+      internalID: 1780244468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_102
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36de7a12f932b78498707dd2d014538b
+      internalID: -497909136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_103
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147d9504d6a189144a9bd4bfc89823ba
+      internalID: 1829139768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_104
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 0
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1705e6f2c03c9d14c98c515113c53169
+      internalID: 141997404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_105
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 0
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da49c234297163b43ac3d375482b1d57
+      internalID: 1669363080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_106
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 0
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568c47ed67a78494dbe420a56e3c6223
+      internalID: 603694904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GandalfHardcore Warrior_0: -769187888
+      GandalfHardcore Warrior_1: -1249644210
+      GandalfHardcore Warrior_10: -2091854825
+      GandalfHardcore Warrior_100: -477155818
+      GandalfHardcore Warrior_101: 1780244468
+      GandalfHardcore Warrior_102: -497909136
+      GandalfHardcore Warrior_103: 1829139768
+      GandalfHardcore Warrior_104: 141997404
+      GandalfHardcore Warrior_105: 1669363080
+      GandalfHardcore Warrior_106: 603694904
+      GandalfHardcore Warrior_11: -1891293308
+      GandalfHardcore Warrior_12: 169320523
+      GandalfHardcore Warrior_13: -254543961
+      GandalfHardcore Warrior_14: 523219970
+      GandalfHardcore Warrior_15: -893838096
+      GandalfHardcore Warrior_16: 824082109
+      GandalfHardcore Warrior_17: -867961648
+      GandalfHardcore Warrior_18: 1710948739
+      GandalfHardcore Warrior_19: -486291999
+      GandalfHardcore Warrior_2: 1588478042
+      GandalfHardcore Warrior_20: 1731832009
+      GandalfHardcore Warrior_21: 726239390
+      GandalfHardcore Warrior_22: 249031268
+      GandalfHardcore Warrior_23: 379606070
+      GandalfHardcore Warrior_24: 558479860
+      GandalfHardcore Warrior_25: -1726839472
+      GandalfHardcore Warrior_26: -630782338
+      GandalfHardcore Warrior_27: 1042864075
+      GandalfHardcore Warrior_28: 1442089170
+      GandalfHardcore Warrior_29: 1715151529
+      GandalfHardcore Warrior_3: -863456875
+      GandalfHardcore Warrior_30: 1102859259
+      GandalfHardcore Warrior_31: 135392006
+      GandalfHardcore Warrior_32: 114149078
+      GandalfHardcore Warrior_33: -647961432
+      GandalfHardcore Warrior_34: -1631250808
+      GandalfHardcore Warrior_35: 1910567013
+      GandalfHardcore Warrior_36: -155157377
+      GandalfHardcore Warrior_37: 698454186
+      GandalfHardcore Warrior_38: 2086552081
+      GandalfHardcore Warrior_39: -1599296208
+      GandalfHardcore Warrior_4: -2121333348
+      GandalfHardcore Warrior_40: 1196709123
+      GandalfHardcore Warrior_41: 324563033
+      GandalfHardcore Warrior_42: -1721929378
+      GandalfHardcore Warrior_43: -1207600533
+      GandalfHardcore Warrior_44: 1733562948
+      GandalfHardcore Warrior_45: -2017111247
+      GandalfHardcore Warrior_46: 556328654
+      GandalfHardcore Warrior_47: 1869266917
+      GandalfHardcore Warrior_48: -308129715
+      GandalfHardcore Warrior_49: 1692414605
+      GandalfHardcore Warrior_5: 1303961994
+      GandalfHardcore Warrior_50: 1215431315
+      GandalfHardcore Warrior_51: -2081796343
+      GandalfHardcore Warrior_52: -540472227
+      GandalfHardcore Warrior_53: -519094561
+      GandalfHardcore Warrior_54: 921692161
+      GandalfHardcore Warrior_55: 1462564895
+      GandalfHardcore Warrior_56: 1985260842
+      GandalfHardcore Warrior_57: -290448879
+      GandalfHardcore Warrior_58: -725684767
+      GandalfHardcore Warrior_59: -252308912
+      GandalfHardcore Warrior_6: -1031200734
+      GandalfHardcore Warrior_60: -1328355525
+      GandalfHardcore Warrior_61: -1825382439
+      GandalfHardcore Warrior_62: 1805408074
+      GandalfHardcore Warrior_63: -384762578
+      GandalfHardcore Warrior_64: -755215604
+      GandalfHardcore Warrior_65: -669706725
+      GandalfHardcore Warrior_66: -1189933443
+      GandalfHardcore Warrior_67: 1139630182
+      GandalfHardcore Warrior_68: 201599018
+      GandalfHardcore Warrior_69: -1910167689
+      GandalfHardcore Warrior_7: 1389643973
+      GandalfHardcore Warrior_70: 1986042622
+      GandalfHardcore Warrior_71: 1037868278
+      GandalfHardcore Warrior_72: 981613479
+      GandalfHardcore Warrior_73: 2143213698
+      GandalfHardcore Warrior_74: 1257024648
+      GandalfHardcore Warrior_75: -34461573
+      GandalfHardcore Warrior_76: 1788053833
+      GandalfHardcore Warrior_77: -2022655331
+      GandalfHardcore Warrior_78: 2063656270
+      GandalfHardcore Warrior_79: 270252556
+      GandalfHardcore Warrior_8: 77988241
+      GandalfHardcore Warrior_80: 761658070
+      GandalfHardcore Warrior_81: 1026462386
+      GandalfHardcore Warrior_82: -1071500042
+      GandalfHardcore Warrior_83: 565145037
+      GandalfHardcore Warrior_84: 2113764797
+      GandalfHardcore Warrior_85: 928549285
+      GandalfHardcore Warrior_86: 1534802222
+      GandalfHardcore Warrior_87: -1151722008
+      GandalfHardcore Warrior_88: 674555049
+      GandalfHardcore Warrior_89: 316244656
+      GandalfHardcore Warrior_9: 1100596441
+      GandalfHardcore Warrior_90: -2114919099
+      GandalfHardcore Warrior_91: -315386066
+      GandalfHardcore Warrior_92: -2049408328
+      GandalfHardcore Warrior_93: 48902540
+      GandalfHardcore Warrior_94: 2088952828
+      GandalfHardcore Warrior_95: -1629260172
+      GandalfHardcore Warrior_96: 1356450461
+      GandalfHardcore Warrior_97: -1955997088
+      GandalfHardcore Warrior_98: -1101567598
+      GandalfHardcore Warrior_99: 1652837052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

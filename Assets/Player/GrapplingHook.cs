@@ -2,7 +2,6 @@
 using Unity.Burst.CompilerServices;
 using Unity.VisualScripting;
 using UnityEngine;
-using static UnityEditor.PlayerSettings;
 public class GrapplingHook : MonoBehaviour
 {
     public Vector3 player;
@@ -13,12 +12,10 @@ public class GrapplingHook : MonoBehaviour
     public GameObject target;
     public GameObject obj;
     private int mapLayer;
-    //static readonly
 
     public void OnEnable()
     {
         SetInitValues();
-
     }
 
     private void SetInitValues()
@@ -35,7 +32,6 @@ public class GrapplingHook : MonoBehaviour
         player = pos;
         direction = dir;
         Grappling();
-        Debug.Log("Grappling Hooks is activate!, Direction:" + direction + "| Best: " + best);
     }
     public void Destroy()
     {
@@ -52,13 +48,12 @@ public class GrapplingHook : MonoBehaviour
 
     public void Grappling()
     {
-         
         for (int i = -10; i <= 10; i+=10)
         {
             Quaternion rotation = Quaternion.Euler(0, 0, i);
             Vector2 dir = rotation * direction;
             RaycastHit2D hit = Physics2D.Raycast(player, dir, 10f, mapLayer);
-            Debug.DrawRay(player, dir * 10f, Color.red);
+            //Debug.DrawRay(player, dir * 10f, Color.red);
             shoot(hit);
         }
         if (best != player)
@@ -67,16 +62,21 @@ public class GrapplingHook : MonoBehaviour
             joint.connectedAnchor = best;
             joint.enabled = true;
             joint.distance = Vector3.Distance(player, best);
+
         }
     }
 
+    void Update()
+    {
+        
+    }
 
     void shoot(RaycastHit2D hit)
     {
         if (hit.collider != null)
         {
-            Debug.Log("Hit: " + hit.collider.name);
-            Debug.Log("position: " + hit.point);
+            //Debug.Log("Hit: " + hit.collider.name);
+            //Debug.Log("position: " + hit.point);
             GameObject objectToThrow = GameObject.FindWithTag("Grappling");
             if (objectToThrow != null)
             {
@@ -92,9 +92,9 @@ public class GrapplingHook : MonoBehaviour
                     }
                 }
 
-                GameObject thrownObject = Instantiate(objectToThrow, hit.point, transform.rotation);
-                Debug.Log("Object thrown: " + thrownObject);
-                Destroy(thrownObject, 2f);
+                //GameObject thrownObject =  Instantiate(objectToThrow, hit.point, transform.rotation);
+                //Debug.Log("Object thrown: " + thrownObject);
+                //Destroy(thrownObject, 2f);
             }
             else
             {

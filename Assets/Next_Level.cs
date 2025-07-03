@@ -12,6 +12,10 @@ public class Next_Level : MonoBehaviour
         if (other.CompareTag("MainPlayer")) 
         {
             SceneManager.LoadScene(nombreEscenaDestino);
+            if (nombreEscenaDestino == "Credits")
+            {
+                Stats.end = true;
+            }
         }
     }
 }

@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Level_End/Level_End.unity
     guid: 5b6f950e91b2c3b44ba876e454e72404
+  - enabled: 1
+    path: Assets/Creditos/Credits.unity
+    guid: abd2acbd81ca82146a3ab1d3081d49cc
   m_configObjects: {}

@@ -14,7 +14,7 @@ public class ThrowHook : MonoBehaviour
         Throw();
         Debug.Log("Throw Hooks is activate!");
     }
-
+     
     public void Throw()
     {
         GameObject objectToThrow = GameObject.FindWithTag("Rock");
