@@ -10,7 +10,7 @@ Videojuego creado en un caos creativo, pero se termino a tiempo.
 - Otras cosas mas que ya tengo sueño y ya expusimos en clase
 
 Que tengas un feliz dia :D
-(los siguientes proyectos de unity, prometo que seran mas estables y coherentes en game desing D:)
+(los siguientes proyectos de unity, prometo que seran mas estables y coherentes en game design D:)
 
 ### Documento Tecnico
 https://docs.google.com/document/d/1iqNcIaFCMaHBA6ercUjDa4-4qZTRhxxxDOEsrS6mVZw/edit?usp=sharing
